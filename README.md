@@ -1,4 +1,4 @@
-# VOTEchori Spring Boot Backend
+# Project Spring Boot Backend
 
 ## Stack
 - Spring Boot 3
